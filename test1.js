@@ -5,3 +5,6 @@ console.log(a+ ""+ b)
 // =======
 console.log(a + " " + b);
 // >>>>>>> Stashed changes
+console.log(a)
+console.log(b)
+
