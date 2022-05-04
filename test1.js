@@ -1,2 +1,3 @@
 const a = "Hello 1";
-console.log(a)
+const b = "Hello 2";
+console.log(a+ ""+ b)
